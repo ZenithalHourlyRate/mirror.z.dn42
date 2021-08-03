@@ -16,5 +16,6 @@ git reset --hard
 cd ../
 
 ## cp build output
-
 cp -r mirrorz/dist ./
+
+rm -r dist/static/json # not used by mirror.z.dn42
