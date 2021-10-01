@@ -1,0 +1,19 @@
+{
+  "url": "http://mirror.z.dn42",
+  "display_legacy": "mirror.z.dn42",
+  "language": "en",
+  "meta": {
+    "og:description": "Mirror sites in dn42",
+    "description": "Mirror sites in dn42",
+    "keywords": "mirrorz,mirrors,mirror,mirror site,linux,open source"
+  },
+  "about": [
+    "legacy",
+    "oh-my-mirrorz"
+  ],
+  "mirrors_legacy": [
+  ],
+  "mirrors": {
+    "uestc": "http://mirrors.nia.dn42/mirrorz.json"
+  }
+}
