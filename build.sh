@@ -54,5 +54,5 @@ cd ../
 ## copy build output
 rm -rf dist
 cp -r mirrorz/dist dist
-cp dist/_/about/index.html dist/index.html # legacy about as front page
+cp dist/_/about/index.html dist/_/index.html # legacy about as legacy front page
 rm -r dist/static/json # not used by mirror.z.dn42

@@ -15,5 +15,12 @@
   ],
   "mirrors": {
     "uestc": "http://mirrors.nia.dn42/mirrorz.json"
-  }
+  },
+  "upstream_legacy": [
+  ],
+  "upstream_mirrors": [
+    "http://mirrors.nia.dn42/mirrorz.json"
+  ],
+  "upstream_parser": [
+  ]
 }
