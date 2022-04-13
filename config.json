@@ -1,6 +1,8 @@
 {
   "url": "http://mirror.z.dn42",
+  "display": "mirror.z.dn42",
   "display_legacy": "mirror.z.dn42",
+  "intro": "<div><p>\"MirrorZ in DN42\"</p><p>\"Collects mirror sites that available in DN42 \"</p></div>",
   "language": "en",
   "meta": {
     "og:description": "Mirror sites in dn42",
